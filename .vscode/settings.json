@@ -1,0 +1,9 @@
+{
+    "ruby.lint": {
+        "rubocop": true,
+        "ruby-lint": true,
+        "ruby": true,
+        "reek": true
+    },
+    "ruby.format": "rubocop"
+}
